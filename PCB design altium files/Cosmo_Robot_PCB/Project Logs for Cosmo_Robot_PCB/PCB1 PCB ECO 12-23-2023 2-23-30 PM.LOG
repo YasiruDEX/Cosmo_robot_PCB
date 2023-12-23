@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Change Component Footprint: Designator=P_ir_l Old Footprint=61900311021 New Footprint=61900311021
+Change Component Footprint: Designator=P_ir_ll Old Footprint=61900311021 New Footprint=61900311021
+Change Component Footprint: Designator=P_ir_r Old Footprint=61900311021 New Footprint=61900311021
+Change Component Footprint: Designator=P_ir_rr Old Footprint=61900311021 New Footprint=61900311021
+Added Pin To Net: NetName=SDA Pin=J_rgb-1
+Added Pin To Net: NetName=SCL Pin=J_rgb-2
+Added Pin To Net: NetName=GND Pin=J_rgb-3
+Added Pin To Net: NetName=5V Pin=J_rgb-4
+Added Pin To Net: NetName=GND Pin=LS-1
+Added Pin To Net: NetName=NetJ_ul_bl_3 Pin=J_ul_bl-3
+Added Pin To Net: NetName=NetJ_ul_bl_3 Pin=P7-9
+Added Net: Name=NetJ_ul_bl_3
+Added Pin To Net: NetName=NetJ_ul_bl_4 Pin=J_ul_bl-4
+Added Pin To Net: NetName=NetJ_ul_bl_4 Pin=P7-11
+Added Net: Name=NetJ_ul_bl_4
+Added Pin To Net: NetName=NetJ_ul_br_3 Pin=J_ul_br-3
+Added Pin To Net: NetName=NetJ_ul_br_3 Pin=P7-13
+Added Net: Name=NetJ_ul_br_3
+Added Pin To Net: NetName=NetJ_ul_br_4 Pin=J_ul_br-4
+Added Pin To Net: NetName=NetJ_ul_br_4 Pin=P7-15
+Added Net: Name=NetJ_ul_br_4
+Added Pin To Net: NetName=NetLS_2 Pin=LS-2
+Added Pin To Net: NetName=NetLS_2 Pin=P4-8
+Added Net: Name=NetLS_2

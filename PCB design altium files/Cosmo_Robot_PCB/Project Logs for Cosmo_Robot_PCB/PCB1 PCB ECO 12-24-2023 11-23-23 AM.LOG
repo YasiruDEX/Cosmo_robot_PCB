@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetJ_5v_in_-_1 Pin=J_main-1
+Removed Pin From Net: NetName=NetJ_5v_in_+_1 Pin=J_main-2
+Change Component Footprint: Designator=J_main Old Footprint=FP-38969-0002-MFG New Footprint=691103110002
+Change Component Comment : Designator=J_main Old Comment=38969-0002 New Comment=691103110002
+Change Managed Component Library Link : Designator=J_main Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=EC39BBD6-D36F-4729-ADCF-C0A5BDE4FA11 New ItemGUID=3F962424-E264-4686-9FA1-7AE8D2D20D1A Old RevisionGUID=DB8552AF-41EA-4199-9D41-B300BFBA1A91 New RevisionGUID=D11080A7-54CE-49D3-A695-F26AFF6FA0F5
+Change component parameters: Designator = "J_main" ("J_main"); Footprint = "FP-38969-0002-MFG"; UniqueID = "\TWHWTWHU" ("\TWHWTWHU")
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass, Copper, Nickel, Tin, Zinc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "18818286"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5052mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Steel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stripping Length"; Value = "-6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "125V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge (Max)"; Value = "26AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge (Min)"; Value = "16AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ_5v_in_+_1 Pin=J_main-1
+Added Pin To Net: NetName=NetJ_5v_in_-_1 Pin=J_main-2

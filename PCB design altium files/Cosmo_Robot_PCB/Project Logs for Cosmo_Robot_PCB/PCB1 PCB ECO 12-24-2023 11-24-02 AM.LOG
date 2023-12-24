@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J_main Old Footprint=691103110002 New Footprint=PHOE-1714955_V
+Change Component Comment : Designator=J_main Old Comment=691103110002 New Comment=1714955
+Change Managed Component Library Link : Designator=J_main Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F962424-E264-4686-9FA1-7AE8D2D20D1A New ItemGUID=9A2224CE-E6A1-4697-97B0-BA74C68A54A9 Old RevisionGUID=D11080A7-54CE-49D3-A695-F26AFF6FA0F5 New RevisionGUID=20C6CDE6-55B0-408A-A534-FBF9D64DEC67
+Change component parameters: Designator = "J_main" ("J_main"); Footprint = "691103110002"; UniqueID = "\INLFXOKH" ("\INLFXOKH")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1714955.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "02/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "PC Terminal Block, Pitch 6.35 mm, 1 x 2 Position, Height 21.5 mm, Tail Lenght 5.1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1714955"; VariantName = "[No Variations]"

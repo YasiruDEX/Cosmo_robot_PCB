@@ -1,0 +1,79 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\yasir\Documents\GitHub\Cosmo_robot_PCB\PCB design altium files\Cosmo_Robot_PCB\PCB1.PcbDoc
+Date     : 12/24/2023
+Time     : 8:33:01 AM
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW_rst-2(45.43mm,123.72mm) on Top Layer And Track (45.72mm,123.19mm)(48.18mm,120.73mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net RESET Between Track (40.64mm,88.006mm)(40.64mm,123.19mm) on Bottom Layer And Pad SW_rst-4(40.93mm,123.72mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=25.4mm) (Preferred=0.203mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.203mm) (Air Gap=0.203mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+   Violation between Minimum Annular Ring: (0.05mm < 0.076mm) Pad Free-2(26.67mm,35.56mm) on Multi-Layer (Annular Ring=0.05mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.05mm < 0.076mm) Pad Free-3(27.94mm,128.27mm) on Multi-Layer (Annular Ring=0.05mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.05mm < 0.076mm) Pad Free-4(140.97mm,106.68mm) on Multi-Layer (Annular Ring=0.05mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.05mm < 0.076mm) Pad Free-5(140.97mm,62.23mm) on Multi-Layer (Annular Ring=0.05mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.05mm < 0.076mm) Pad Free-6(114.3mm,39.37mm) on Multi-Layer (Annular Ring=0.05mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.05mm < 0.076mm) Pad Free-7(111.127mm,118.525mm) on Multi-Layer (Annular Ring=0.05mm) On (Top Layer)
+Rule Violations :6
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad P2-1(104.775mm,58.674mm) on Multi-Layer And Text "P1" (105.296mm,56.071mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad P3-8(62.865mm,58.547mm) on Multi-Layer And Text "P7" (63.843mm,60.058mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (40.64mm,88.006mm)(40.64mm,123.19mm) on Bottom Layer 
+   Violation between Net Antennae: Track (45.72mm,123.19mm)(48.18mm,120.73mm) on Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Arc (144.44mm,34.925mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (37.79mm,47.775mm)(37.79mm,60.175mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (37.79mm,47.775mm)(49.29mm,47.775mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (37.79mm,60.175mm)(49.29mm,60.175mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (0.098mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (37.917mm,105.072mm)(37.917mm,117.472mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (0.098mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (37.917mm,105.072mm)(49.417mm,105.072mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (0.098mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (37.917mm,117.472mm)(49.417mm,117.472mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (100.283mm,27.813mm)(106.76mm,34.29mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (57.15mm,33.02mm)(62.357mm,27.813mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (62.357mm,27.813mm)(100.283mm,27.813mm) on Bottom Layer 
+Rule Violations :10
+
+Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 22
+Waived Violations : 0
+Time Elapsed        : 00:00:01

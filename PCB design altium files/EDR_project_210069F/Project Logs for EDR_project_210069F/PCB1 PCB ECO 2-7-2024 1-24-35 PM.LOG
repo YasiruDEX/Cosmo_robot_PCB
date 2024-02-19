@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Add Component: Footprint Not Found XTAL_ECS-160-S-1X
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 EEE-FK1E102AQ
+Added Member To Class: ClassName=Sheet1 Member=Component P1 B4B-PH-K-S(LF)(SN)
+Add Class Member: Failed to add class member : Component Y? ECS-160-S-1X

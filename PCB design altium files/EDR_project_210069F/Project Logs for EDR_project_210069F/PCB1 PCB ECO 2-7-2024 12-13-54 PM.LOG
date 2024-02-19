@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=Sheet1 Member=T?
+Added Component: Designator=J_main(PHOE-1714955_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1714955.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "PC Terminal Block, Pitch 6.35 mm, 1 x 2 Position, Height 21.5 mm, Tail Lenght 5.1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1714955"; VariantName = "[No Variations]"
+Added Component: Designator=T1(EE16_8_5 (EF16))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/749118215.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "0.9mH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage (AC)"; Value = "85-265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (A)"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage (DC)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EE16_8_5 (EF16)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "749118215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turns Ratio"; Value = ""19","1:1""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component J_main 1714955
+Added Member To Class: ClassName=Sheet1 Member=Component T1 749118215

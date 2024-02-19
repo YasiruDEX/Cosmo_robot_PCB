@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=U?-3
+Added Component: Designator=R?(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8BWFR015V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_ECS-160-S-1X
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=VCC Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=VCC Pin=U?-6
+Added Pin To Net: NetName=NetC?_1 Pin=U?-8
+Added Pin To Net: NetName=VCC Pin=U?-18
+Added Pin To Net: NetName=GND Pin=U?-21
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-29
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Sheet1 Member=Component C? RCE5C1H220J0M1H03A
+Added Member To Class: ClassName=Sheet1 Member=Component C? 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component R? ERJ8BWFR015V
+Add Class Member: Failed to add class member : Component Y? ECS-160-S-1X

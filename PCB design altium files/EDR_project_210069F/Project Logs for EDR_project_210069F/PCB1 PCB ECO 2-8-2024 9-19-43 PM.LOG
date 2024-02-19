@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Add Component: Footprint Not Found XTAL_ECS-160-S-1X
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Add Class Member: Failed to add class member : Component Y? ECS-160-S-1X

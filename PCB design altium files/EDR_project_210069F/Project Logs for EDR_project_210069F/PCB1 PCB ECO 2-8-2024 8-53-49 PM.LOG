@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=NetD6_1 Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U2-5
+Removed Member From Class: ClassName=Sheet1 Member=Q2
+Change Component Footprint: Designator=Q1 Old Footprint=MLTC-TO-18-3 New Footprint=FP-UB-IPC_C
+Change Component Comment : Designator=Q1 Old Comment=2N2222 New Comment=JANTX2N2222AUB
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8ACE089F-BDF6-42D4-9EFE-D2F75C56F417 New ItemGUID=99A88A19-9CEB-45B8-9A4C-B266392C64AE Old RevisionGUID=E951E6B2-BA19-4D89-9248-B4F3E0CB9015 New RevisionGUID=0604648C-4E14-4F3B-B3AD-19DBCC54B3C3
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "MLTC-TO-18-3"; UniqueID = "\QDJBTMIL" ("\QDJBTMIL")
+Added Component: Designator=Q?(FP-UB-IPC_C)
+Add Component: Footprint Not Found XTAL_ECS-160-S-1X
+Added Pin To Net: NetName=NetD6_1 Pin=Q?-3
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-2
+Change Net Name : Old Net Name=GND New Net Name=NetC2_2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-4
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-4
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R3-2
+Added Net: Name=NetQ?_1
+Added Member To Class: ClassName=Sheet1 Member=Component Q? JANTX2N2222AUB
+Add Class Member: Failed to add class member : Component Y? ECS-160-S-1X

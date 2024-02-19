@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJ3_1 Pin=J?-1
+Removed Pin From Net: NetName=NetJ3_2 Pin=J?-2
+Removed Member From Class: ClassName=Sheet1 Member=J?
+Add Component: Footprint Not Found XTAL_ECS-160-S-1X
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-2
+Add Class Member: Failed to add class member : Component Y? ECS-160-S-1X
